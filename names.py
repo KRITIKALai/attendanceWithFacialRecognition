@@ -6,5 +6,6 @@ filename_to_realname = {
     'jr_ntr': 'Nanadamuri Taraka Rama Rao Jr.',
     'samantha': 'Samantha Ruth Prabhu',
     'tom_cruise': 'Tom Cruise',
-    'zendaya': 'Zendaya'
+    'zendaya': 'Zendaya',
+    'aakash_dhal': 'Aakash Dhal'
 }
